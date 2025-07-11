@@ -1,0 +1,164 @@
+.stats23-container1 {
+  width: 100%;
+  flex-direction: column;
+}
+ 
+.stats23-max-width {
+  gap: var(--dl-layout-space-fourunits);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+ 
+.stats23-container2 {
+  max-width: 50%;
+}
+ 
+.stats23-container3 {
+  align-self: center;
+  align-items: flex-start;
+  margin-left: auto;
+}
+ 
+.stats23-container4 {
+  width: 100%;
+}
+ 
+.stats23-container5 {
+  width: 100%;
+  height: 100%;
+  align-items: flex-start;
+}
+ 
+.stats23-container6 {
+  width: 100%;
+  height: 100%;
+  align-items: flex-start;
+}
+ 
+.stats23-container7 {
+  width: 100%;
+}
+ 
+.stats23-container8 {
+  width: 100%;
+  height: 100%;
+  align-items: flex-start;
+}
+ 
+.stats23-container9 {
+  width: 100%;
+  height: 100%;
+  align-items: flex-start;
+}
+ 
+.stats23-fragment10 {
+  display: contents;
+}
+ 
+.stats23-text21 {
+  display: inline-block;
+}
+ 
+.stats23-fragment11 {
+  display: contents;
+}
+ 
+.stats23-text22 {
+  display: inline-block;
+}
+ 
+.stats23-fragment12 {
+  display: contents;
+}
+ 
+.stats23-text23 {
+  display: inline-block;
+}
+ 
+.stats23-fragment13 {
+  display: contents;
+}
+ 
+.stats23-text24 {
+  display: inline-block;
+}
+ 
+.stats23-fragment14 {
+  display: contents;
+}
+ 
+.stats23-text25 {
+  display: inline-block;
+}
+ 
+.stats23-fragment15 {
+  display: contents;
+}
+ 
+.stats23-text26 {
+  display: inline-block;
+}
+ 
+.stats23-fragment16 {
+  display: contents;
+}
+ 
+.stats23-text27 {
+  display: inline-block;
+}
+ 
+.stats23-fragment17 {
+  display: contents;
+}
+ 
+.stats23-text28 {
+  display: inline-block;
+}
+ 
+.stats23-fragment18 {
+  display: contents;
+}
+ 
+.stats23-text29 {
+  display: inline-block;
+}
+ 
+.stats23-fragment19 {
+  display: contents;
+}
+ 
+.stats23-text30 {
+  display: inline-block;
+}
+ 
+.stats23-fragment20 {
+  display: contents;
+}
+ 
+.stats23-text31 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .stats23-max-width {
+    gap: var(--dl-layout-space-twounits);
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .stats23-container2 {
+    width: 100%;
+    max-width: 100%;
+  }
+  .stats23-container3 {
+    align-self: flex-start;
+    margin-left: 0px;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .stats23-image {
+    width: 100%;
+  }
+}
