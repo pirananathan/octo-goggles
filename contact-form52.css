@@ -1,0 +1,225 @@
+.contact-form52-contact1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact-form52-section-title {
+  gap: var(--dl-layout-space-unit);
+  align-items: center;
+}
+ 
+.contact-form52-content {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact-form52-form {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: 100%;
+}
+ 
+.contact-form52-container1 {
+  gap: var(--dl-layout-space-unit);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+ 
+.contact-form52-input1 {
+  gap: var(--dl-layout-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form52-input2 {
+  gap: var(--dl-layout-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form52-container2 {
+  gap: var(--dl-layout-space-unit);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+ 
+.contact-form52-input3 {
+  gap: var(--dl-layout-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form52-input4 {
+  gap: var(--dl-layout-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form52-container3 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form52-input5 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form52-container4 {
+  gap: var(--dl-layout-space-halfunit);
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form52-checkbox1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+}
+ 
+.contact-form52-button {
+  align-self: flex-start;
+}
+ 
+.contact-form52-fragment1 {
+  display: contents;
+}
+ 
+.contact-form52-text20 {
+  display: inline-block;
+}
+ 
+.contact-form52-fragment2 {
+  display: contents;
+}
+ 
+.contact-form52-text21 {
+  display: inline-block;
+}
+ 
+.contact-form52-fragment3 {
+  display: contents;
+}
+ 
+.contact-form52-text22 {
+  display: inline-block;
+}
+ 
+.contact-form52-fragment4 {
+  display: contents;
+}
+ 
+.contact-form52-text23 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .contact-form52-container1 {
+    gap: var(--dl-layout-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contact-form52-input1 {
+    width: 50%;
+  }
+  .contact-form52-input2 {
+    width: 50%;
+    flex-direction: column;
+  }
+  .contact-form52-container2 {
+    gap: var(--dl-layout-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contact-form52-input3 {
+    width: 50%;
+  }
+  .contact-form52-input4 {
+    width: 50%;
+  }
+  .contact-form52-container3 {
+    gap: var(--dl-layout-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contact-form52-input5 {
+    gap: var(--dl-layout-space-halfunit);
+    width: 50%;
+    flex-direction: column;
+  }
+  .contact-form52-container4 {
+    width: 100%;
+  }
+  .contact-form52-checkbox1 {
+    align-self: flex-start;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .contact-form52-textarea {
+    flex: 1;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .contact-form52-text12 {
+    text-align: center;
+  }
+  .contact-form52-form {
+    padding: var(--dl-layout-space-unit);
+  }
+  .contact-form52-container1 {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .contact-form52-input1 {
+    width: 100%;
+  }
+  .contact-form52-input2 {
+    width: 100%;
+  }
+  .contact-form52-container2 {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .contact-form52-input3 {
+    width: 100%;
+  }
+  .contact-form52-input4 {
+    width: 100%;
+  }
+}
